@@ -4,7 +4,7 @@
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 
 CCTV-1,http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8?servicetype=1$订阅源-3840x2160
-
+CCTV-8K,http://223.105.252.57/PLTV/3/224/3221228165/index.m3u8?servicetype=1
 阿坝汉语,http://112.45.192.49:9999/udp/239.10.0.50:5140
 阿坝藏语,http://112.45.192.49:9999/udp/239.10.0.51:5140
 
