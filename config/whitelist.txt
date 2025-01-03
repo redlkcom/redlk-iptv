@@ -9,6 +9,14 @@ CCTV-8K,http://223.105.252.57/PLTV/3/224/3221228165/index.m3u8?servicetype=1
 阿坝藏语,http://112.45.192.49:9999/udp/239.10.0.51:5140
 love4k,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8?blog.ntnas.top
 love4k,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+4k超清,http://123.117.165.86:8118/rtp/239.3.1.249:8001
+南国都市4K,http://183.7.129.76:8088/udp/239.253.43.99:5146
+CCTV-4K,http://183.7.129.76:8088/udp/239.77.0.194:5146
+百事通4K,http://116.232.238.226:10001/udp/239.45.1.42:5140
+康巴卫视,http://218.88.86.15:4022/udp/239.93.0.41:5140
+
+
+
 互助综合,http://livecdn.dmqhyadmin.com/hls/xjhuzhu.m3u8
 互助综合,http://livecdn.dmqhyadmin.com/hls/xjhuzhuout.m3u8
 化隆综合,http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8
